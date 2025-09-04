@@ -57,20 +57,8 @@ docker compose up -d --build
 
 ***
 
-## 📷 대표 결과물 예시
-
-### 실시간 시계열 주가 변화(InfluxDB-Grafana 대시보드)
-![Grafana Dashboard 시계열 시각화](./insert_your_grafana_dashboard_image관리](./insert_your_docker_desktop_image.png/
-    │   ├─ kafka/
-    │   │    ├─ naver_stock_producer.py
-    │   │    ├─ stock_consumer.py
-    │   ├─ config/
-    │   │    └─ database.py
-    ├─ docker-compose.yml
-    ├─ requirements.txt
-    ├─ .env
-    └─ README.md
-```
+<img width="1916" height="1033" alt="image" src="https://github.com/user-attachments/assets/cf383cb3-948b-4613-b186-1de3563b95ee" />
+<img width="1909" height="905" alt="image" src="https://github.com/user-attachments/assets/6d862db9-1b22-4550-b7e8-6a37ead8db41" />
 
 ***
 
