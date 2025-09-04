@@ -27,7 +27,7 @@ Consumer가 PostgreSQL·Redis·InfluxDB에 동시 저장한 뒤 Grafana에서 �
 
 ***
 
-## ⚡ 프로젝트 구조(예시)
+## ⚡ 프로젝트 구조
 ```
 네이버 크롤러(Producer) → Kafka → Consumer → PostgreSQL, Redis, InfluxDB → Grafana
 ```
